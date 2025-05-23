@@ -27,7 +27,7 @@ The project consists of the following key components:
 ## How to Run the Project
 
 1.  **Prerequisites:**
-    -   Python 3.x
+    -   Python 3.11.2
     -   Jupyter Notebook
     -   Required Python libraries (install using pip):
         ```bash
@@ -35,10 +35,7 @@ The project consists of the following key components:
         ```
         You might need to install TensorFlow separately based on your system and GPU availability (e.g., `pip install tensorflow` or `pip install tensorflow-gpu`).
 
-2.  **Save the Image:**
-    -   Save the provided image as `actual_vs_predicted.png` in the same directory as your `README.md` file.
-
-3.  **Open the Notebook:**
+2.  **Open the Notebook:**
     -   Navigate to the project directory in your terminal.
     -   Run Jupyter Notebook:
         ```bash
@@ -46,7 +43,7 @@ The project consists of the following key components:
         ```
     -   Open the `Predicting the Stocks Values of Microsoft.ipynb` file in your browser.
 
-4.  **Execute the Code:**
+3.  **Execute the Code:**
     -   Follow the instructions and execute the cells within the Jupyter Notebook sequentially.
     -   The notebook will guide you through the data loading, preprocessing, model building, training, and visualization steps.
 
@@ -76,6 +73,7 @@ This project is for educational and demonstrative purposes only. Stock market pr
 
 This project, titled "PREDICTING THE STOCK VALUES OF MICROSOFT USING LSTM NEURAL NETWORK," was presented by:
 
--   **Student Name:** Krishna Vijay. G
+-   **Name:** Krishna Vijay. G
 -   **College Name:** Bharath Institute of Science and Technology
 -   **Email ID:** krishnavijay.gkv@gmail.com
+-   **LinkedIn:** https://www.linkedin.com/in/krishna-vijay/
